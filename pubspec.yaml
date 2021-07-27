@@ -75,7 +75,7 @@ dependencies:
   # for dependency injection
   injectable: ^1.4.1
   get_it: ^7.1.3
-    # to show any notifications in foreground and background
+  # to show any notifications in foreground and background
 
   #for animation splash screen
   rive: ^0.7.11
