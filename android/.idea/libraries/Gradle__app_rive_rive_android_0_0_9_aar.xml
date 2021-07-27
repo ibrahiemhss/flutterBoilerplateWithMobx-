@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: app.rive:rive-android:0.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cab0893e5c0917e7b0905dd29f8cfd07/jetified-rive-android-0.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cab0893e5c0917e7b0905dd29f8cfd07/jetified-rive-android-0.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cab0893e5c0917e7b0905dd29f8cfd07/jetified-rive-android-0.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
