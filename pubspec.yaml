@@ -154,8 +154,7 @@ flutter:
           weight: 800
     - family: UiIcons
       fonts:
-        - asset: assets/fonts/icon_font/ui_icons.ttf
-
+        - asset: assets/fonts/icon_font/ui_icons.tt
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
